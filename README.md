@@ -30,10 +30,15 @@ It supports multiple LLM providers like **Groq** and **OpenAI**, with optional *
 Ai agent chatbot/
 │
 ├── ai_agent.py # Core AI agent logic
+
 ├── backend.py # FastAPI backend
+
 ├── frontend.py # Streamlit frontend UI
+
 ├── .env # Environment variables (not committed)
+
 ├── requirements.txt # Dependencies
+
 └── README.md
 
 ## 🔐 Environment Variables
